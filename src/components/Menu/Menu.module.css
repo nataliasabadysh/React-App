@@ -1,0 +1,21 @@
+.Menu{
+  text-align: center;
+}
+.List{
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 50px 0;
+}
+.Cards{
+  padding: 20px;
+  width: 32.6%;
+  margin: 4px;
+  border: 1px solid rgba(34, 34, 34, 0.08);
+  box-shadow: 1px 1px 6px #00000029;
+}
+.p{
+  font-style: italic ;
+  font-size: 12px;
+  line-height: 16px;
+}
